@@ -1,3 +1,4 @@
+### Agenda
 	1. Agile Process And terminologies
 	2. Scrum Roles And Sprint activities
 	3. Jira and Its use
@@ -5,7 +6,7 @@
 	5. Implementing Jira features in Development Environment
 
 
-AGILE:
+### AGILE:
 
  Agile is time boxed , iterative approach to software development, to deliver the product incrementally, instead of all at once.
 
@@ -18,9 +19,9 @@ FEATURE:
 STORY
 TASKS
 
-Agile Scrum Roles:
+## Agile Scrum Roles:
 
-	1. Product owner:
+###	1. Product owner:
 
 	• understands the requirement of the customer
 	• great vision for final product
@@ -30,7 +31,7 @@ Agile Scrum Roles:
 
 The product owner talks to the client and creates a backlog and then create an EPIC.
 
-	2. Scrum Master
+###	2. Scrum Master
 
 	• Responsible for gluing everything together
 	• sometimes act as intermediately between the product owner and dev team
@@ -40,7 +41,7 @@ The product owner talks to the client and creates a backlog and then create an E
 
 The scrum master teaches and ensures that the scrum team follows the scrum practices.
 
-	3. Scrum Team
+###	3. Scrum Team
 
 	• Consists of software developers and quality assurers
 	• breakdown the work into subtasks
@@ -57,7 +58,7 @@ Example of Scrum Sprint Activities
 
 Here each story is divided into a miniature tasks and these tasks need to be completed in short amount of time. And the work that's been done in the short time frame is called a Sprint. And that's what makes this method so efficient. By timely delivery of small features we are also ensuring the timely delivery of the whole software on the larger scale.
 
-What is Jira?
+### What is Jira?
 
 Jira is a project management tool and an issue tracker developed by Atlassian.
 	• That is based upon the same fundamental principle which is the foundation of agile. 
